@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>画像をカメラロールに保存します</string>
+	<key>UIAppFonts</key>
+	<array>
+		<string>HinaMincho-Regular.ttf</string>
+		<string>KaiseiOpti-Regular.ttf</string>
+		<string>KaiseiTokumin-Regular.ttf</string>
+		<string>MochiyPopPOne-Regular.ttf</string>
+		<string>MPLUSRounded1c-Regular.ttf</string>
+		<string>NotoSansJP-Regular.ttf</string>
+		<string>NotoSerifJP-Regular.ttf</string>
+		<string>RampartOne-Regular.ttf</string>
+		<string>Times-New-Romance.ttf</string>
+		<string>ZenAntique-Regular.ttf</string>
+		<string>YujiSyuku-Regular.ttf</string>
+	</array>
+</dict>
+</plist>
